@@ -8,10 +8,11 @@ public class Programa {
         //Exercicio04.executar();
         //Exercicio05.executar();
         //Exercicio06.executar();
-        // Exercicio07.executar();
+        //Exercicio07.executar();
         //Exercicio08.executar();
         //Exercicio09.executar();
-        Exercicio10.executar();
+        //Exercicio10.executar();
+        Exercicio11.executar();
 
     }
 
